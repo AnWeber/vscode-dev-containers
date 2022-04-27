@@ -1,0 +1,10 @@
+{
+	"name": "Oracle",
+
+	"context": "..",
+	"dockerFile": "Dockerfile",
+	"settings": {
+		"git.ignoreLegacyWarning": true
+	},
+	"extensions": [  ]
+}
